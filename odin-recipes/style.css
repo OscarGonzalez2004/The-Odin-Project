@@ -1,0 +1,19 @@
+* {
+    background-color: #000;
+    color: rgb(247, 3, 255);
+    font-family: sans-serif;
+}
+
+h2, h3 {
+    color: #ffff;
+    font-size: 25px;
+}
+
+strong {
+    color: #ffff;
+}
+
+a {
+    color: #ffff;
+    cursor: pointer;
+}
