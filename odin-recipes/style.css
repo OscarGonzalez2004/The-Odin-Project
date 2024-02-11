@@ -1,19 +1,24 @@
 * {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+body {
     background-color: #000;
-    color: rgb(247, 3, 255);
-    font-family: sans-serif;
+    margin: 20px;
 }
 
-h2, h3 {
-    color: #ffff;
-    font-size: 25px;
+img {
+    border: 2px;
+    border-style: solid;
+    border-color: #fff;
 }
 
-strong {
-    color: #ffff;
+a:hover {
+    color: rgb(184, 184, 184);
 }
 
-a {
-    color: #ffff;
-    cursor: pointer;
+#home-list {
+    list-style: none;
 }
